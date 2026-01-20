@@ -1,0 +1,8 @@
+{
+  "name": "GenomicsXAI Interactive Dashboard",
+  "description": "A high-fidelity prototype for genomic analysis featuring Explainable AI (XAI) insights, automated pipelines, and an AI-driven research assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
