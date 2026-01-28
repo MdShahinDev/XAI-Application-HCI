@@ -72,11 +72,17 @@ QC: Solo (Doublet detection via Synthetic Doublet training)
 ## 🤝 Contributors
 
 **Md Shahin**
+
 **B H Hridoy**
+
 **Rashedul Islam**
+
 **Junayaid Islam**
+
 **Tareq Monour**
+
 **Parvez Hasan**
+
 
 ## 📈 Future Roadmap
 
