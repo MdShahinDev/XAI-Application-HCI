@@ -69,6 +69,15 @@ QC: Solo (Doublet detection via Synthetic Doublet training)
 └── App.tsx                           # View orchestration and state management
 ```
 
+## 🤝 Contributors
+
+**Md Shahin**
+**B H Hridoy**
+**Rashedul Islam**
+**Junayaid Islam**
+**Tareq Monour**
+**Parvez Hasan**
+
 ## 📈 Future Roadmap
 
 Spatial Transcriptomics: Integration of tissue-mapping visuals.
