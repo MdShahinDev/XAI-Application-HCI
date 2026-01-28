@@ -54,23 +54,6 @@ XAI: SHAP (Game Theory based attribution)
 
 QC: Solo (Doublet detection via Synthetic Doublet training)
 
-📂 Repository Structure
-
-code
-Bash
-├── views/
-│   ├── LandingPage.tsx           # Entry point with XAI concept overview
-│   ├── DashboardHome.tsx         # Experiment management & file upload
-│   ├── MarkerGeneIdentification.tsx # XAI, Pathway Maps, and UMAP
-│   ├── CellTypeAnnotation.tsx    # Automated labeling & model reasoning
-│   └── CellStatus.tsx            # Health diagnostics & QC metrics
-├── components/
-│   └── DashboardLayout.tsx       # Persistent navigation and system shell
-├── types.ts                      # Shared TypeScript interfaces
-└── App.tsx                       # View orchestration and state management
-
-
-
 ## 📂 Repository Structure
 
 ```text
@@ -84,7 +67,7 @@ Bash
 │   └── DashboardLayout.tsx           # Persistent navigation and system shell
 ├── types.ts                          # Shared TypeScript interfaces
 └── App.tsx                           # View orchestration and state management
-
+```
 
 ## 📈 Future Roadmap
 Spatial Transcriptomics: Integration of tissue-mapping visuals.
