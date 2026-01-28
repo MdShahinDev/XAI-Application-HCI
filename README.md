@@ -32,10 +32,15 @@ Conversational Intelligence: Powered by the Gemini API, the "Ask AI" module assi
 ## 🛠️ Tech Stack
 
 **Framework:** React 19 (ES6+ Modules)
+
 **Styling:** Tailwind CSS (Utility-first high-fidelity design)
+
 **Icons:** Lucide-React
+
 **AI Engine:** Google Gemini API (@google/genai)
+
 **HCI Patterns:** Glassmorphism, Responsive Grid Layouts, and Motion-driven Transitions.
+
 
 ## 🧪 Scientific Methodology
 
