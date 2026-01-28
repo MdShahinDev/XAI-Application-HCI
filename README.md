@@ -70,12 +70,18 @@ QC: Solo (Doublet detection via Synthetic Doublet training)
 ```
 
 ## 📈 Future Roadmap
+
 Spatial Transcriptomics: Integration of tissue-mapping visuals.
 Multi-Omic Support: Expansion into Proteomics and Epigenomics.
 In-Silico Perturbation: A "What-If" engine to virtually knock out genes and predict phenotype shifts.
-## 📈 Future Roadmap 📄 License
 
-# This project is developed as a high-fidelity HCI prototype for research and educational purposes.
+## 📄 License
 
-View your app in AI Studio: https://ai.studio/apps/drive/1d7LbHe0pSVDMudagDZk_9XILcnVwnNWU
+This project is open-source and available under the **MIT License**.
+
+**This project is developed as a high-fidelity HCI prototype for research and educational purposes.**
+
+## 🔗 Live Demo
+
+[View Live Site 🌍](https://xaiapplication.vercel.app/)
 
