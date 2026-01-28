@@ -14,13 +14,19 @@ In modern bioinformatics, AI models often act as "black boxes." GenomicsXAI addr
 SHAP-Based Attribution: Visualizes feature importance using SHAP (SHapley Additive exPlanations) to rank genes driving cluster classification.
 Interactive Pathway Mapping: A dynamic network topology mapping marker genes to canonical biological pathways (KEGG/Reactome).
 Guided Visualization: High-fidelity UMAP (Uniform Manifold Approximation and Projection) scatter plots for exploring cellular landscapes in 2D space.
-3. **Automated Cell Type Annotation**
+
+2. **Automated Cell Type Annotation**
+
 ScanVI Integration: Leverages Variational Inference models to predict cell identities with high confidence.
 Evidence Panels: Dual-view reasoning that separates "Biological Evidence" (marker-based) from "Model Inference" (latent space mapping).
-4. **Cell Status & Health Diagnostics**
+
+3. **Cell Status & Health Diagnostics**
+
 Solo Doublet Detection: Deep learning-based identification of cellular artifacts and doublets.
 Viability Metrics: Real-time monitoring of mitochondrial content and stress-response signatures.
-5. **AI Research Assistant**
+
+4. **AI Research Assistant**
+
 Conversational Intelligence: Powered by the Gemini API, the "Ask AI" module assists researchers in interpreting results, summarizing pathways, and troubleshooting pipelines using natural language.
 
 ## 🛠️ Tech Stack
