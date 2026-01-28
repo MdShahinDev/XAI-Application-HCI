@@ -111,7 +111,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onEnterDashboard }) => {
 
       {/* Footer */}
       <footer className="py-12 px-6 lg:px-20 text-center text-slate-400 text-sm">
-        <p>© 2024 GenomicsXAI. Advancing Human-Centered Bio-Intelligence.</p>
+        <p>© 2026 GenomicsXAI. Human Computer Interaction - HCI Project.</p>
       </footer>
     </div>
   );
